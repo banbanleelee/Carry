@@ -31,7 +31,7 @@ const Header = () => {
                     <nav className="navbar">
                     <div className="container">
                         <div className="navbar-brand">
-                        <Link to="/" className="navbar-item">
+                        <Link to="/carry" className="navbar-item">
                             <img src={logo} alt="Logo" style={{width:"300px", minHeight:"150px"}}></img>
                         </Link>
                         <span className="navbar-burger" data-target="navbarMenuHeroA">
@@ -42,7 +42,7 @@ const Header = () => {
                         </div>
                         <div id="navbarMenuHeroA" className="navbar-menu">
                         <div className="navbar-end">
-                            <Link to="/" className="navbar-item"> <span className='is-size-4'> <b>HOME</b> </span> </Link>
+                            <Link to="/carry" className="navbar-item"> <span className='is-size-4'> <b>HOME</b> </span> </Link>
                             <span className="navbar-item">
                             <form onSubmit={handleFormSubmit}>
                                 <div className="field has-addons">
