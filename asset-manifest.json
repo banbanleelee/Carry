@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/carry/static/css/main.5ce50f35.css",
+    "main.js": "/carry/static/js/main.b139332a.js",
+    "static/js/787.816f2d81.chunk.js": "/carry/static/js/787.816f2d81.chunk.js",
+    "static/media/Emblem_Challenger.png": "/carry/static/media/Emblem_Challenger.bcddbed6863c75984019.png",
+    "static/media/Emblem_Master.png": "/carry/static/media/Emblem_Master.6cebbe60a644ce013839.png",
+    "static/media/Emblem_Grandmaster.png": "/carry/static/media/Emblem_Grandmaster.9a64d7260df3f99028cd.png",
+    "static/media/Emblem_Diamond.png": "/carry/static/media/Emblem_Diamond.8249cef116bf02ddd1bb.png",
+    "static/media/Emblem_Platinum.png": "/carry/static/media/Emblem_Platinum.26c61fd5b19266948171.png",
+    "static/media/Emblem_Bronze.png": "/carry/static/media/Emblem_Bronze.ad96bf19e0574bfb508f.png",
+    "static/media/Emblem_Silver.png": "/carry/static/media/Emblem_Silver.ba09227683288589c6c1.png",
+    "static/media/Emblem_Gold.png": "/carry/static/media/Emblem_Gold.617f139ec1ac6fc0f55c.png",
+    "static/media/Emblem_Iron.png": "/carry/static/media/Emblem_Iron.9c3d63ce3cc7c09529b5.png",
+    "static/media/Emblem_Unranked_Solo.png": "/carry/static/media/Emblem_Unranked_Solo.5a9d5fc8e897793be869.png",
+    "static/media/Emblem_Unranked_Flex.png": "/carry/static/media/Emblem_Unranked_Flex.e4ddfb539427da5f1ba7.png",
+    "static/media/logo.png": "/carry/static/media/logo.9389acd606992a426683.png",
+    "index.html": "/carry/index.html",
+    "main.5ce50f35.css.map": "/carry/static/css/main.5ce50f35.css.map",
+    "main.b139332a.js.map": "/carry/static/js/main.b139332a.js.map",
+    "787.816f2d81.chunk.js.map": "/carry/static/js/787.816f2d81.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ce50f35.css",
+    "static/js/main.b139332a.js"
+  ]
+}
