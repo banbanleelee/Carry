@@ -7,7 +7,7 @@ import Header from '../components/Header.js';
 import SummonerNameCard from '../components/SummonerNameCard.js';
 import SummonerRankCard from '../components/SummonerRankCard.js';
 import MatchContainer from '../components/MatchContainer.js'
-
+import Search from './Search';
 // https://fast-citadel-27448.herokuapp.com/
 
 // const proxy = 'http://localhost:3001/' ;
@@ -34,7 +34,19 @@ const Result = () => {
     // console.log('summonersummonersummoner', summoner);
 
     if (!summoner) {
-        return <p>This summoner doesn't exist</p>;
+        return (
+            <div>
+                <article className="message is-warning">
+                    <div className="message-header">
+                        <p className='is-size-3'>Oops...</p>
+                    </div>
+                    <div className="message-body">
+                        <p><b className='is-size-4'>This username doesn't exist!</b></p>
+                    </div>
+                </article>
+                <Search/>
+            </div>
+        )
     } else { 
         return (
             <div>
