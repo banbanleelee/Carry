@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
 import logo from '../images/logo.png'
 import {IoRocketOutline} from 'react-icons/io5'
@@ -19,10 +19,10 @@ const Header = () => {
     const handleFormSubmit = async (event) => {
         event.preventDefault();
 
-        window.location.assign(`/carry/summoner/${formState.summonerName}`);
+        window.location.assign(`/carry/${formState.summonerName}`);
     };
 
-    console.log('formstate', formState.summonerName);
+    // console.log('formstate', formState.summonerName);
 
     return (
         <div>

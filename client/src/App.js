@@ -16,7 +16,7 @@ function App() {
             </div>
           }>
           </Route>
-          <Route exact path = '/summoner/:summonerName' element = {
+          <Route exact path = '/:summonerName' element = {
             <div>
               <Result />
             </div>

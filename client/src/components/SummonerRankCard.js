@@ -39,7 +39,7 @@ const SummonerRankCard = (props) => {
         fetchData();
     },[props.summonerId]);
 
-    console.log(soloState);
+    // console.log(soloState);
     if (!summonerRankState || !soloState || !flexState) {
         return <p>Loading...</p>;
     } else {
