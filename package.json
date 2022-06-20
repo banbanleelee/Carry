@@ -14,7 +14,8 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "concurrently": "^5.1.0"
+    "concurrently": "^5.1.0",
+    "gh-pages": "^4.0.0"
   },
   "dependencies": {
     "bulma-pagination-react": "^0.1.1",
