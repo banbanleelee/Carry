@@ -1,0 +1,423 @@
+
+{
+    "metadata": {
+      "dataVersion": "2",
+      "matchId": "NA1_4346320291",
+      "participants": [
+        "smET1Ulqnoo-jd-bVPzpwNjfRkQG53gaTqGnRygvib3rCzVwyNWpKot9PXaUzRkqp8Zn_huJMRq42A",
+        "GAdS8yBsNDvhhqTkHsgCSQHR0Ht6mqa0wvoKXeJ5vFMIHxaS9JDh14daULsyZxeIOr6wT-8NphKvxw",
+        "0ArX6Rqr9btTaGL10OIu2XaCf89Ag4-oAj7A-FG4gj8mfQGMzywOSiplYfMfkWq-0namw__Z_EfBYg",
+        "_WarTrScTflUG8eoYPCAg-2DAZPb4w93xdksQMBCwjlHsxBNXIjJp2IxWJXDoZxV4A-uK-siSGG3Vg",
+        "D9eMhpu_w5YBHrrPEDAtLUaFex1jWGFSVfRS956o-XWnKsDb0C3y1mSd6dzjZNTrj9JU9001cNUBtA",
+        "tGbzg9_ecwrDC8boe9b8jiOqhMoQw46om-ASYkWhG18cveIlTc-kKBocyvU8HvYGc1oYMrdB3_gXpA",
+        "pdR3B2yAJvw-IV7kjoCu4caOtdzgYNos_QATX9kAjWVYsAVL4NQ6iC5XZtk6EaYvY3iuKGT3mbRamA",
+        "b2myBGOtMOU856POumZm4oL3Xqp890z1Sgiqnyzp2Vtp-2j43EurwmJL0PV3C2mr-cikipTamOZfYw",
+        "RPTSTnkX1s0RUaG212ASHNUktjhd_67Dwpok4AdNaT57ZWKq01RAc6MgSqYPf95y6v_vfkceaer7bQ",
+        "XI_d8GCaX3_LfVygsol_7PFaQ4QYkKhfTJ5waZkJWxNSCb3AMpJCxYsh3-UjtYcQcbOre7teztd8Jg"
+      ]
+    },
+    "info": {
+      "gameCreation": 1655539917000,
+      "gameDuration": 1921,
+      "gameEndTimestamp": 1655541906243,
+      "gameId": 4346320291,
+      "gameMode": "CLASSIC",
+      "gameName": "teambuilder-match-4346320291",
+      "gameStartTimestamp": 1655539984844,
+      "gameType": "MATCHED_GAME",
+      "gameVersion": "12.11.446.9344",
+      "mapId": 11,
+      "participants": [
+        {
+          "assists": 11,
+          "baronKills": 0,
+          "bountyLevel": 2,
+          "challenges": {
+            "12AssistStreakCount": 0,
+            "abilityUses": 193,
+            "acesBefore15Minutes": 0,
+            "alliedJungleMonsterKills": 1.600000023841858,
+            "baronBuffGoldAdvantageOverThreshold": 1,
+            "baronTakedowns": 1,
+            "blastConeOppositeOpponentCount": 0,
+            "bountyGold": 0,
+            "buffsStolen": 0,
+            "completeSupportQuestInTime": 0,
+            "controlWardsPlaced": 0,
+            "damagePerMinute": 355.25096317870396,
+            "damageTakenOnTeamPercentage": 0.1604811101883746,
+            "dancedWithRiftHerald": 0,
+            "deathsByEnemyChamps": 1,
+            "dodgeSkillShotsSmallWindow": 66,
+            "doubleAces": 0,
+            "dragonTakedowns": 0,
+            "earliestBaron": 1631.372381380684,
+            "earlyLaningPhaseGoldExpAdvantage": 1,
+            "effectiveHealAndShielding": 2681.030029296875,
+            "elderDragonKillsWithOpposingSoul": 0,
+            "elderDragonMultikills": 0,
+            "enemyChampionImmobilizations": 9,
+            "enemyJungleMonsterKills": 0,
+            "epicMonsterKillsNearEnemyJungler": 0,
+            "epicMonsterKillsWithin30SecondsOfSpawn": 0,
+            "epicMonsterSteals": 0,
+            "epicMonsterStolenWithoutSmite": 0,
+            "firstTurretKilledTime": 984.005150659352,
+            "flawlessAces": 1,
+            "fullTeamTakedown": 3,
+            "gameLength": 1921.4815294367652,
+            "getTakedownsInAllLanesEarlyJungleAsLaner": 0,
+            "goldPerMinute": 349.284406263837,
+            "hadAfkTeammate": 0,
+            "hadOpenNexus": 0,
+            "highestCrowdControlScore": 1,
+            "immobilizeAndKillWithAlly": 4,
+            "initialBuffCount": 0,
+            "initialCrabCount": 0,
+            "jungleCsBefore10Minutes": 0,
+            "junglerTakedownsNearDamagedEpicMonster": 0,
+            "kTurretsDestroyedBeforePlatesFall": 0,
+            "kda": 13,
+            "killAfterHiddenWithAlly": 0,
+            "killParticipation": 0.3939393939393939,
+            "killedChampTookFullTeamDamageSurvived": 0,
+            "killsNearEnemyTurret": 0,
+            "killsOnOtherLanesEarlyJungleAsLaner": 0,
+            "killsOnRecentlyHealedByAramPack": 0,
+            "killsUnderOwnTurret": 0,
+            "killsWithHelpFromEpicMonster": 0,
+            "knockEnemyIntoTeamAndKill": 0,
+            "landSkillShotsEarlyGame": 0,
+            "laneMinionsFirst10Minutes": 70,
+            "laningPhaseGoldExpAdvantage": 0,
+            "legendaryCount": 0,
+            "lostAnInhibitor": 0,
+            "maxCsAdvantageOnLaneOpponent": 50.99999997019768,
+            "maxKillDeficit": 0,
+            "maxLevelLeadLaneOpponent": 4,
+            "moreEnemyJungleThanOpponent": -115.40000000596046,
+            "multiKillOneSpell": 0,
+            "multiTurretRiftHeraldCount": 0,
+            "multikills": 0,
+            "multikillsAfterAggressiveFlash": 0,
+            "mythicItemUsed": 6662,
+            "outerTurretExecutesBefore10Minutes": 0,
+            "outnumberedKills": 0,
+            "outnumberedNexusKill": 0,
+            "perfectDragonSoulsTaken": 0,
+            "perfectGame": 0,
+            "pickKillWithAlly": 9,
+            "poroExplosions": 0,
+            "quickCleanse": 0,
+            "quickFirstTurret": 0,
+            "quickSoloKills": 0,
+            "riftHeraldTakedowns": 1,
+            "saveAllyFromDeath": 0,
+            "scuttleCrabKills": 0,
+            "shortestTimeToAceFromFirstTakedown": 9.314958124519762,
+            "skillshotsDodged": 24,
+            "skillshotsHit": 0,
+            "snowballsHit": 0,
+            "soloBaronKills": 0,
+            "soloKills": 0,
+            "soloTurretsLategame": 0,
+            "stealthWardsPlaced": 8,
+            "survivedSingleDigitHpCount": 0,
+            "survivedThreeImmobilizesInFight": 0,
+            "takedownOnFirstTurret": 1,
+            "takedowns": 13,
+            "takedownsAfterGainingLevelAdvantage": 0,
+            "takedownsBeforeJungleMinionSpawn": 0,
+            "takedownsFirstXMinutes": 2,
+            "takedownsInAlcove": 0,
+            "takedownsInEnemyFountain": 0,
+            "teamBaronKills": 1,
+            "teamDamagePercentage": 0.10873252737354228,
+            "teamElderDragonKills": 0,
+            "teamRiftHeraldKills": 1,
+            "teleportTakedowns": 1,
+            "threeWardsOneSweeperCount": 0,
+            "tookLargeDamageSurvived": 0,
+            "turretPlatesTaken": 0,
+            "turretTakedowns": 3,
+            "turretsTakenWithRiftHerald": 5,
+            "twentyMinionsIn3SecondsCount": 0,
+            "unseenRecalls": 0,
+            "visionScoreAdvantageLaneOpponent": -0.31777435541152954,
+            "visionScorePerMinute": 0.48840708605574595,
+            "wardTakedowns": 2,
+            "wardTakedownsBefore20M": 2,
+            "wardsGuarded": 0
+          },
+          "champExperience": 16289,
+          "champLevel": 16,
+          "championId": 98,
+          "championName": "Shen",
+          "championTransform": 0,
+          "consumablesPurchased": 1,
+          "damageDealtToBuildings": 2541,
+          "damageDealtToObjectives": 8602,
+          "damageDealtToTurrets": 2541,
+          "damageSelfMitigated": 24053,
+          "deaths": 1,
+          "detectorWardsPlaced": 0,
+          "doubleKills": 0,
+          "dragonKills": 0,
+          "eligibleForProgression": true,
+          "firstBloodAssist": false,
+          "firstBloodKill": false,
+          "firstTowerAssist": false,
+          "firstTowerKill": true,
+          "gameEndedInEarlySurrender": false,
+          "gameEndedInSurrender": false,
+          "goldEarned": 11185,
+          "goldSpent": 11130,
+          "individualPosition": "TOP",
+          "inhibitorKills": 0,
+          "inhibitorTakedowns": 0,
+          "inhibitorsLost": 0,
+          "item0": 4637,
+          "item1": 3047,
+          "item2": 6662,
+          "item3": 3075,
+          "item4": 1033,
+          "item5": 1028,
+          "item6": 3340,
+          "itemsPurchased": 19,
+          "killingSprees": 1,
+          "kills": 2,
+          "lane": "TOP",
+          "largestCriticalStrike": 24,
+          "largestKillingSpree": 2,
+          "largestMultiKill": 1,
+          "longestTimeSpentLiving": 619,
+          "magicDamageDealt": 54027,
+          "magicDamageDealtToChampions": 6078,
+          "magicDamageTaken": 6619,
+          "neutralMinionsKilled": 1,
+          "nexusKills": 0,
+          "nexusLost": 0,
+          "nexusTakedowns": 0,
+          "objectivesStolen": 0,
+          "objectivesStolenAssists": 0,
+          "participantId": 1,
+          "pentaKills": 0,
+          "perks": {
+            "statPerks": {
+              "defense": 5002,
+              "flex": 5008,
+              "offense": 5008
+            },
+            "styles": [
+              {
+                "description": "primaryStyle",
+                "selections": [
+                  {
+                    "perk": 8437,
+                    "var1": 864,
+                    "var2": 654,
+                    "var3": 0
+                  },
+                  {
+                    "perk": 8401,
+                    "var1": 576,
+                    "var2": 0,
+                    "var3": 0
+                  },
+                  {
+                    "perk": 8444,
+                    "var1": 1181,
+                    "var2": 0,
+                    "var3": 0
+                  },
+                  {
+                    "perk": 8453,
+                    "var1": 575,
+                    "var2": 1506,
+                    "var3": 0
+                  }
+                ],
+                "style": 8400
+              },
+              {
+                "description": "subStyle",
+                "selections": [
+                  {
+                    "perk": 8126,
+                    "var1": 676,
+                    "var2": 0,
+                    "var3": 0
+                  },
+                  {
+                    "perk": 8106,
+                    "var1": 5,
+                    "var2": 0,
+                    "var3": 0
+                  }
+                ],
+                "style": 8100
+              }
+            ]
+          },
+          "physicalDamageDealt": 40194,
+          "physicalDamageDealtToChampions": 4621,
+          "physicalDamageTaken": 9303,
+          "profileIcon": 5374,
+          "puuid": "smET1Ulqnoo-jd-bVPzpwNjfRkQG53gaTqGnRygvib3rCzVwyNWpKot9PXaUzRkqp8Zn_huJMRq42A",
+          "quadraKills": 0,
+          "riotIdName": "",
+          "riotIdTagline": "",
+          "role": "SOLO",
+          "sightWardsBoughtInGame": 0,
+          "spell1Casts": 139,
+          "spell2Casts": 17,
+          "spell3Casts": 31,
+          "spell4Casts": 6,
+          "summoner1Casts": 2,
+          "summoner1Id": 12,
+          "summoner2Casts": 3,
+          "summoner2Id": 4,
+          "summonerId": "Ex4owLSoxj0DTVlnwszMz8_-pZKBqzl6CJfbvyUD8c1BjryU2itLVUY1GQ",
+          "summonerLevel": 553,
+          "summonerName": "KumatsuMotors",
+          "teamEarlySurrendered": false,
+          "teamId": 100,
+          "teamPosition": "TOP",
+          "timeCCingOthers": 18,
+          "timePlayed": 1921,
+          "totalDamageDealt": 102315,
+          "totalDamageDealtToChampions": 11376,
+          "totalDamageShieldedOnTeammates": 2681,
+          "totalDamageTaken": 16506,
+          "totalHeal": 3475,
+          "totalHealsOnTeammates": 0,
+          "totalMinionsKilled": 182,
+          "totalTimeCCDealt": 959,
+          "totalTimeSpentDead": 27,
+          "totalUnitsHealed": 1,
+          "tripleKills": 0,
+          "trueDamageDealt": 8093,
+          "trueDamageDealtToChampions": 676,
+          "trueDamageTaken": 582,
+          "turretKills": 3,
+          "turretTakedowns": 3,
+          "turretsLost": 2,
+          "unrealKills": 0,
+          "visionScore": 15,
+          "visionWardsBoughtInGame": 0,
+          "wardsKilled": 2,
+          "wardsPlaced": 8,
+          "win": true
+        }
+      ],
+      "platformId": "NA1",
+      "queueId": 420,
+      "teams": [
+        {
+          "bans": [
+            {
+              "championId": 122,
+              "pickTurn": 1
+            },
+            {
+              "championId": 517,
+              "pickTurn": 2
+            },
+            {
+              "championId": 11,
+              "pickTurn": 3
+            },
+            {
+              "championId": 111,
+              "pickTurn": 4
+            },
+            {
+              "championId": 200,
+              "pickTurn": 5
+            }
+          ],
+          "objectives": {
+            "baron": {
+              "first": true,
+              "kills": 1
+            },
+            "champion": {
+              "first": true,
+              "kills": 33
+            },
+            "dragon": {
+              "first": false,
+              "kills": 4
+            },
+            "inhibitor": {
+              "first": true,
+              "kills": 2
+            },
+            "riftHerald": {
+              "first": true,
+              "kills": 1
+            },
+            "tower": {
+              "first": true,
+              "kills": 10
+            }
+          },
+          "teamId": 100,
+          "win": true
+        },
+        {
+          "bans": [
+            {
+              "championId": 200,
+              "pickTurn": 6
+            },
+            {
+              "championId": 223,
+              "pickTurn": 7
+            },
+            {
+              "championId": 53,
+              "pickTurn": 8
+            },
+            {
+              "championId": 235,
+              "pickTurn": 9
+            },
+            {
+              "championId": 238,
+              "pickTurn": 10
+            }
+          ],
+          "objectives": {
+            "baron": {
+              "first": false,
+              "kills": 0
+            },
+            "champion": {
+              "first": false,
+              "kills": 11
+            },
+            "dragon": {
+              "first": true,
+              "kills": 1
+            },
+            "inhibitor": {
+              "first": false,
+              "kills": 0
+            },
+            "riftHerald": {
+              "first": false,
+              "kills": 0
+            },
+            "tower": {
+              "first": false,
+              "kills": 2
+            }
+          },
+          "teamId": 200,
+          "win": false
+        }
+      ],
+      "tournamentCode": ""
+    }
+  }

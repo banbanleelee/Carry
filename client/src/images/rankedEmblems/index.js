@@ -1,0 +1,11 @@
+export const Emblem_Bronze = require('./Emblem_Bronze.png');
+export const Emblem_Iron = require('./Emblem_Iron.png');
+export const Emblem_Silver = require('./Emblem_Silver.png');
+export const Emblem_Gold = require('./Emblem_Gold.png');
+export const Emblem_Platinum = require('./Emblem_Platinum.png');
+export const Emblem_Diamond = require('./Emblem_Diamond.png');
+export const Emblem_Master = require('./Emblem_Master.png');
+export const Emblem_Grandmaster = require('./Emblem_Grandmaster.png');
+export const Emblem_Challenger = require('./Emblem_Challenger.png');
+export const Emblem_Unranked_Solo = require('./Emblem_Unranked_Solo.png');
+export const Emblem_Unranked_Flex = require('./Emblem_Unranked_Flex.png');

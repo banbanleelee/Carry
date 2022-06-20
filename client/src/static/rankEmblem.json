@@ -1,0 +1,38 @@
+[
+    {
+        "tier":"IRON",
+        "src": "Emblem_Iron"
+    },
+    {
+        "tier":"BRONZE",
+        "src": "Emblem_Bronze"
+    },
+    {
+        "tier":"SILVER",
+        "src": "Emblem_Silver"
+    },
+    {
+        "tier":"GOLD",
+        "src": "Emblem_Gold"
+    },
+    {
+        "tier":"PLATINUM",
+        "src": "Emblem_Platinum"
+    },
+    {
+        "tier":"DIAMOND",
+        "src": "Emblem_Diamond"
+    },
+    {
+        "tier":"MASTER",
+        "src": "Emblem_Master"
+    },
+    {
+        "tier":"GRANDMASTER",
+        "src": "Emblem_Grandmaster"
+    },
+    {
+        "tier":"CHALLENGER",
+        "src": "Emblem_Challenger"
+    }
+]
