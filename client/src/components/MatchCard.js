@@ -43,8 +43,7 @@ const MatchCard = ({matchId, puuid}) => {
         const summoner = summonerMatchState[0].info.participants;
         const index = summoner.findIndex(obj => obj.puuid === puuid);
         // console.log(summonerMatchState[0].info.participants[index].challenges.killParticipation);
-        if (!summonerMatchState[0].info.participants[index].win) {
-            {window.location.reload()}
+        if (summonerMatchState[0].info.participants[index].win === undefined) {
             return <p>Loading...</p>
         } else {
             return (
