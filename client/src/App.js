@@ -1,4 +1,4 @@
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { Routes, Route } from 'react-router-dom';
 import './App.css';
 
 import Search from './pages/Search';
@@ -7,7 +7,7 @@ import Result from './pages/Result';
 function App() {
   return (
     <div>
-      <Router>
+      
         <Routes>
           <Route exact = 'true' path = '/' element = {
             <div>
@@ -22,7 +22,7 @@ function App() {
           }>
           </Route>
         </Routes>
-      </Router>
+      
     </div>
   );
 }
