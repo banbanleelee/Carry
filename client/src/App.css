@@ -39,6 +39,27 @@
   align-items: center !important;
 }
 
+/* unvisited link */
+a:link {
+  color: rgb(29, 29, 29) !important;
+}
+
+/* visited link */
+a:visited {
+  color: rgb(29, 29, 29) !important;
+}
+
+/* mouse over link */
+a:hover {
+  color: rgb(29, 29, 29) !important;
+}
+
+/* selected link */
+a:active {
+  color: rgb(29, 29, 29) !important;
+}
+
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
