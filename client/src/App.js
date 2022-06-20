@@ -1,4 +1,4 @@
-import { Routes, Route } from 'react-router-dom';
+import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import './App.css';
 
 import Search from './pages/Search';
@@ -8,20 +8,22 @@ function App() {
   return (
     <div>
       
+      <BrowserRouter basename='/carry' forceRefresh={true}>
         <Routes>
-          <Route exact = 'true' path = '/' element = {
+          <Route exact path = '/' element = {
             <div>
               <Search />
             </div>
           }>
           </Route>
-          <Route exact = 'true' path = '/summoner/:summonerName' element = {
+          <Route exact path = '/summoner/:summonerName' element = {
             <div>
               <Result />
             </div>
           }>
           </Route>
         </Routes>
+      </BrowserRouter>
       
     </div>
   );

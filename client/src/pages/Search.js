@@ -24,7 +24,7 @@ const Search = () => {
     const handleFormSubmit = async (event) => {
         event.preventDefault();
 
-        window.location.assign(`/summoner/${formState.summonerName}`);
+        window.location.assign(`/carry/summoner/${formState.summonerName}`);
     };
 
     console.log('formstate', formState.summonerName);

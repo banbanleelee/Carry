@@ -265,7 +265,7 @@ const MatchCard = ({matchId, puuid}) => {
                     {summonerMatchState[0].info.participants.slice(0,5).map(participant => 
                         <li>
                         <div className='has-text-right'>
-                            <Link to={`/summoner/${participant.summonerName.toLowerCase()}`} onClick={() => window.location.reload()}><span className='is-size-6'>{participant.summonerName}&nbsp;</span></Link>
+                            <Link to={`/summoner/${participant.summonerName.toLowerCase()}`}><span className='is-size-6'>{participant.summonerName}&nbsp;</span></Link>
                             <span>
                                 <img 
                                     src={`http://ddragon.leagueoflegends.com/cdn/12.11.1/img/champion/${participant.championName}.png`} 
