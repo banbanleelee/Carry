@@ -9,7 +9,7 @@ function App() {
     <div>
       <Router>
         <Routes>
-          <Route exact = 'true' path = '/' element = {
+          <Route exact = 'true' path = '/carry' element = {
             <div>
               <Search />
             </div>
