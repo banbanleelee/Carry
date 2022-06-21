@@ -19,6 +19,7 @@ const MatchCard = ({matchId, puuid}) => {
     // console.log(puuid);
     // console.log(matchId);
     const [summonerMatchState, setSummonerMatchState] = useState(null);
+    const [profileState, setProfileState] = useState('/');
 
     const key = process.env.REACT_APP_API_KEY;
 
@@ -32,7 +33,7 @@ const MatchCard = ({matchId, puuid}) => {
             await setSummonerMatchState(summonerMatchState => [...summonerMatchState, res.data]);
             }
         fetchData();
-    },[matchId]);
+    },[summonerMatchState]);
 
     if (!summonerMatchState) {
         console.log(`loading`)
@@ -293,7 +294,7 @@ const MatchCard = ({matchId, puuid}) => {
                                             style={{borderRadius:"7px", height: "50px"}}>
                                         </img>
                                     </span>
-                                    <Link to={`/${participant.summonerName.toLowerCase()}`} ><span className='is-size-6'>{participant.summonerName}&nbsp;</span></Link>                                
+                                    <Link onClick={()=>{setProfileState(`/${participant.summonerName.toLowerCase()}`)}} to={profileState} ><span className='is-size-6'>{participant.summonerName}&nbsp;</span></Link>                                
                             </div>           
                             </li>
                         )}

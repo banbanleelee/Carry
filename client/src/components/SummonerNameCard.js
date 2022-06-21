@@ -1,7 +1,9 @@
 import React from 'react';
 
 const SummonerNameCard = (summoner) => {
-   
+   if(summoner === undefined) {
+    <p>Loading...</p>
+   }
     return (
         <div className="box has-background-light" style={{height:"180px"}}>
             <article className="media">
