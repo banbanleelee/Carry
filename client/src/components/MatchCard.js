@@ -14,6 +14,7 @@ import returnColor from '../utils/returnColor';
 
 import '../App.css'
 
+
 const MatchCard = ({matchId, puuid}) => {
     // console.log(props.matchId);
     // console.log(puuid);

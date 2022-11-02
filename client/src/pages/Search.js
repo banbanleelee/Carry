@@ -38,7 +38,7 @@ const Search = () => {
                     <nav className="navbar">
                         <div className="navbar-brand">
                             <a className="navbar-item">
-                                <img src={logo} alt="Logo" style={{width:"300px", minHeight:"150px"}}></img>
+                                <img src={logo} alt="Logo" style={{width:"450px", minHeight:"150px"}}></img>
                             </a>
                         </div>
                     </nav>

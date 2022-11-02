@@ -32,7 +32,7 @@ const Header = () => {
                     <div className="container">
                         <div className="navbar-brand">
                         <Link to="/" className="navbar-item">
-                            <img src={logo} alt="Logo" style={{width:"300px", minHeight:"150px"}}></img>
+                            <img src={logo} alt="Logo" style={{width:"450px", minHeight:"150px"}}></img>
                         </Link>
                         <span className="navbar-burger" data-target="navbarMenuHeroA">
                             <span></span>
